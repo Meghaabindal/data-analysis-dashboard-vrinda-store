@@ -1,2 +1,17 @@
-# data-analysis-dashboard-vrinda-store
-I developed a project in excel, creating multiple dashboards and tables to analyze the data. This process involved various stages, including data cleaning, data preprocessing and data visualization. 
+# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+
+## **Project Objective**
+
+The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023.
+## **Dataset used**
+- <a href="https://github.com/Meghaabindal/data-analysis-dashboard-vrinda-store/blob/main/vrinda%20store%20data(megha).xlsx">Dataset</a>
+## **Questions (KPIs)**
+
+- Compare the sales and orders using single chart.
+- Which month got the highest sales and orders?
+- Who purchased more - Men or Women?
+- What are different order status in 2022?
+- List top 10 states contributingto the sales?
+- Relation between age and gender based on number of orders.
+- Which Channel is contributing maximum to the sales?
+- Highest selling category?
